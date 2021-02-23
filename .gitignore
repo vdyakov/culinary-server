@@ -1,0 +1,12 @@
+# Dependency directory
+node_modules
+
+# Ignore built ts files
+dist/**/*
+
+# ide
+.idea
+
+# Ignore config params
+config/development.json
+config/production.json
